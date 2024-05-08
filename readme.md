@@ -2,7 +2,7 @@
 
 Desafio de criação de site contando a história de Ada Lovelace, a primeira programadora da história. Desenvolvido através do curso online "Minha Primeira página web!" - PrograMaria, escola que oferece cursos de programação para mulheres e pessoas de gêneros minorizados iniciantes em tecnologia.
 
-# Durante o projeto foi trabalhado 🚀
+## Durante o projeto foi trabalhado 🚀
 
 * HTML para estruturação;
 * CSS avançado para estilização;
@@ -13,6 +13,8 @@ Desafio de criação de site contando a história de Ada Lovelace, a primeira pr
 * Acessibilidade: definição de textos alternativos para imagens (alt) e estrutura semântica HTML adequada para facilitar a navegação por leitores de tela;
 * Versionamento de código;
 
-    Acesso o projeto: https://michellemaus.github.io/Site-AdaLovelace/
+## Acesse o projeto: 
 
-    ![Captura de tela do site](https://github.com/MichelleMaus/Site-AdaLovelace/blob/main/img/screencapture-michellemaus-github-io-Site-AdaLovelace-2024-05-08-19_07_28.png)
+https://michellemaus.github.io/Site-AdaLovelace/
+
+![Captura de tela do site](https://github.com/MichelleMaus/Site-AdaLovelace/blob/main/img/screencapture-michellemaus-github-io-Site-AdaLovelace-2024-05-08-19_07_28.png)
