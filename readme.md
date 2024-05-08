@@ -13,4 +13,4 @@ Desafio de criação de site contando a história de Ada Lovelace, a primeira pr
 * Acessibilidade: definição de textos alternativos para imagens (alt) e estrutura semântica HTML adequada para facilitar a navegação por leitores de tela;
 * Versionamento de código;
 
-    Acesso o projeto: https://michellemaus.github.io/Site-AdaLovelace/
+    Acesso o projeto: https://github.com/MichelleMaus/Site-AdaLovelace.git
